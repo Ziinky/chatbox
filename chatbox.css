@@ -1,0 +1,30 @@
+body.chatbox {background-color:#fff!important}
+#chatbox_header.main-head {background-color: #fff;color: #359bed;padding: 0 1.3em;border-bottom: 2px solid #359bed;} #chatbox_header {height: 35px;}
+.chatbox-title {padding: 5px 5px 0;font-family: open sans, sans-serif;font-size: 19px;}.chatbox-title, .chatbox-title a.chat-title {color: #359bed;}
+#chatbox_members {top: 37px;background-color: #f2f2f2;!important;height: 400px;!important}
+.chatbox_row_1 {background: #fff} .chatbox_row_2 {background-color: #fbfbfb;}
+#chatbox {top: 37px;background-color: #fff;!important;bottom: 76px!important;font-size: 13px;font-family: open sans, sans-serif;}
+#chatbox_footer {left:181px; background-color: #f4fddf;width: 821px;}
+#chatbox_contextmenu {box-shadow: 1px 1px grey;} label[for="message"] {display: none}
+#chatbox_contextmenu p {border-bottom: none; font-family: open sans, sans-serif;padding: 5px 10px;font-size: 14px;}
+.cb-menu-close {right: 5px!important;top: 5px!important}.right {float: none;margin-left: 11px;}#chatbox_messenger_form {margin: 10px 0 10px;}
+label[for="format-italic"] {background-image: url(http://i.imgur.com/nQuf6to.png);}
+label[for='format-bold'] {background-image: url(http://i.imgur.com/xsMoNwB.png)}
+label[for="format-underline"] {background-image: url(http://i.imgur.com/V3hX16X.png);}
+label[for="format-strike"] {background-image: url(http://i.imgur.com/mM47jcd.png);}
+#divcolor {background-image: url(http://illiweb.com/fa/wysiwyg/color_swatch.png)!important;font-size:0px!important;line-height:16px!important;}
+#divsmilies {background-image: url(http://i.imgur.com/hAmLWAU.png);} #divsmilies > img {display:none!important}
+#divcolor, #divsmilies, #help-button, .format-message + label {border:1px outset!important; height: 18px; width:18px;border-radius:0px!important;padding:3px!important}
+.fontbutton {background: none no-repeat scroll center center #fff;float: left;font-size: 1px;}
+#help-button {background: #fff;!important;font-size: 17px;} #chatbox .user {font-family: Arial;font-size: 13px;display: inline!important}
+#chatbox .msg {font-size: 13px;font-family: open sans, sans-serif;display: inline!important} #chatbox_top {height:400px!important}
+.right > div {padding: 5px 0 0!important} #message {border: 1px solid #b6b6b6;height: 28px!important;
+  margin-top: -7px!important;width: 100%!important;margin-left: -6px!important;}
+input#submit_button {bottom: 5px;position: absolute;right: 10px;background-color: #0da96c;font-weight: 700border: 1px solid #0A945E!important;border-radius: 0px!important;box-shadow: none;width: 100px;border-bottom: 2px solid #10895A!important;}
+.member-title online {text-shadow: rgb(255, 255, 255) 0px 0px 1px, rgb(255, 255, 255) 0px 0px 1px,
+    rgb(255, 255, 255) 0px 0px 1px, rgb(255, 255, 255) 0px 0px 1px, 
+    rgb(255, 255, 255) 0px 0px 1px, rgb(255, 255, 255) 0px 0px 1px, rgb(255, 255, 255) 0px 0px 1px,
+    rgb(255, 255, 255) 0px 0px 1px, rgb(255, 255, 255) 0px 0px 1px;
+display: block;background-color: rgb(13, 169, 108) !important;}
+#chatbox_members .member-title {color: #000;font-family: open sans, sans-serif;font-size: 15px;border-bottom: 2px solid #10895A;}
+.online-users , away-users {font-size: 14px;margin: 0.5em;background: #fbfbfb;padding: 1px;}
